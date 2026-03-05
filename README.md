@@ -10,6 +10,7 @@ Designed and built a compact 10-inch mini server rack to host my home infrastruc
 - 10-inch Patch Panel
 - Structured Ethernet cabling
 - Rack-mounted power management
+- Running a cluster with 3 nodes 
 
 ## Virtual Infrastructure
 - Proxmox Virtual Environment
@@ -17,6 +18,9 @@ Designed and built a compact 10-inch mini server rack to host my home infrastruc
 - DNS & Domain Services
 - Linux-based services (Docker containers)
 - Secure remote access configuration
+- Kali Linux
+- self-hosted services (PiHole,vaultwarden)
+- using tailscale(vpn) to connect from anywhere 
 
 ## Network Design
 - Internal LAN segmentation
@@ -35,3 +39,4 @@ Designed and built a compact 10-inch mini server rack to host my home infrastruc
 - Network organization best practices
 - Importance of DNS in AD environments
 - Physical + virtual infrastructure integration
+- fundamentals of networking 
